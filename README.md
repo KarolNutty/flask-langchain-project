@@ -1,4 +1,4 @@
-# 🚀 Flask RAG Support — IA na prática, do jeitinho que eu gosto
+# 🚀 Flask RAG Support — IA na prática
 
 Esse projeto aqui é meu mini-laboratório de **IA aplicada**, onde eu junto Flask + LangChain + RAG + embeddings pra criar um sistema de suporte baseado em documentos.
 Tradução: *eu pego um PDF, fatio, indexo, jogo numa vectorstore e deixo a IA responder tudo em cima dele bonitinho.*
